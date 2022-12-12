@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* width: 90vw; */
+    border: solid black;
+
+}
+
+
+#map {
+    display: flex;
+    justify-content: space-around;
+}
